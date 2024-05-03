@@ -1,0 +1,26 @@
+{
+    "hangman": {
+        "h_desc": "Game of Hangman, uwu!",
+        "play_desc": "Let's play Hangman, nya~!",
+        "newday_desc": "Emergency reset in case of a mega fail.",
+        "today_played": "Oh noes! You've already played today, silly!",
+        "char_guessed": "You've already guessed that letter, baka...",
+        "not_char": "This is not a valid letter! Try something kawaii~!",
+        "time_run_out": "Time run out! You can continue later!",
+        "bug_undef": "This bug has not yet been figured out. Teehee~",
+        "new_day": "It's a brand new day of HANGMAN! \\(◕ω◕)/",
+        "hangman_title": "Hangman",
+        "guessed_chars": "Guessed letters so far:",
+        "today_hm_title": "Today's Hangman",
+        "stats_title": "Stats",
+        "stats_games": "Games played",
+        "stats_streak": "Win streak",
+        "lose_title": "Oh no, what a shame! Better luck next time, dummy.",
+        "oof_title": "Oof. That was a close one. But you still managed to win. GJ!",
+        "win_title": "Yay! You won today's Hangman!"
+    },
+    "headers": {
+        "info": "INFO",
+        "error": "ERROR"
+    }
+}

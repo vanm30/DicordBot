@@ -1,0 +1,26 @@
+{
+    "hangman": {
+        "h_desc": "Hra Hangman, uwu!",
+        "play_desc": "Hráme Hangman, nya~!",
+        "newday_desc": "Nouzový reset v případě giga erroru.",
+        "today_played": "Už jsi dnes hrál, hloupáku!",
+        "char_guessed": "Tohle písmeno jsi už hádal, baka...",
+        "not_char": "Tohle není platné písmeno! Zkus něco jinýho kawaii~!",
+        "time_run_out": "Čas vypršel! Můžeš pokračovat přes /h play!",
+        "bug_undef": "Tenhle bug zatím nebyl vyřešen. Teehee~",
+        "new_day": "Nový den Hangmanu! \\(◕ω◕)/",
+        "hangman_title": "Hangman",
+        "guessed_chars": "Použitá písmena:",
+        "today_hm_title": "Dnešní Hangman",
+        "stats_title": "Statistiky",
+        "stats_games": "Hry odehrané",
+        "stats_streak": "Výher po sobě",
+        "lose_title": "Ach jo, taková ostuda! Příště to bude lepší, blbečku.",
+        "oof_title": "Oof. To bylo těsný. Ale stejně jsi vyhrál. GJ!",
+        "win_title": "Yay! Vyhrál jsi dnešní Hangman!"
+    },
+    "headers": {
+        "info": "INFO",
+        "error": "CHYBA"
+    }
+}
